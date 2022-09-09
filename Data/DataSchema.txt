@@ -1,0 +1,14 @@
+
+Student and Grade :
+
+student_id || subject_id || grade || Curriculum ||
+
+
+Subject :
+
+subject_id || base_subject_id || name_Eng || name_Thai || Abstract ||
+
+For Use In Future :
+
+student_id || 01070556 || ... || 01070999 ||
+ 62010456         A       ...        B  
