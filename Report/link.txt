@@ -9,3 +9,6 @@ https://bigdata.go.th/big-data-101/what-is-natural-language-processing/
 
 etl
 https://www.fusionsol.com/blog/review-etl-process/
+
+reccom
+https://www.ldaworld.com/recommendation-system-lda/
