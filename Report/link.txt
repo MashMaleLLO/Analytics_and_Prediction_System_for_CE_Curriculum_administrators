@@ -1,0 +1,11 @@
+predict
+https://twinsynergy.co.th/machine-learning-%E0%B8%84%E0%B8%B3%E0%B8%A8%E0%B8%B1%E0%B8%9E%E0%B8%97%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%B9%E0%B9%89/
+
+ml
+https://www.depa.or.th/th/article-view/article11-2563
+
+nlp 
+https://bigdata.go.th/big-data-101/what-is-natural-language-processing/
+
+etl
+https://www.fusionsol.com/blog/review-etl-process/
